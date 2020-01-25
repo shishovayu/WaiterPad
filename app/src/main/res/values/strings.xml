@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WaiterPad</string>
+    <string name="action_settings">Settings</string>
+    <string name="orders">Orders</string>
+    <string name="menu">menu</string>
+    <string name="title">Welcome to WaiterPad!</string>
+</resources>
